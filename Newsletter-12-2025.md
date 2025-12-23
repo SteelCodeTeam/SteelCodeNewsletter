@@ -414,7 +414,11 @@ En esta edicion de la newsletter hay mucho que comentar, vayamos por partes.
 
 - **Metallics Arts**: Empezamos el port a NeoForge 1.21.10. Estos dos meses hemos empezado el port, creado la generacion de mundo, los items basicos y los poderes alomanticos. ¡Estamos avanzando super rapido para estar reescribiendo todo el mod desde 0!
 
+- **Newsletters**: He creado un rol para los interesados en las newsletter. Tambien quería haceros llegar, que lo que se expresa en esta newsletter es *MI* vision del mundo, y no la del equipo en su conjunto, ya que soy yo la persona que hace esto.
+
 - **Ready Crossbow**: Hemos lanzado un nuevo mod sencillo, simple, y funcional. Cualquier mob que use una ballesta aparecerá con ella cargada. ¿Quien va a la guerra con la ballesta sin cargar? 
+
+- **Simple Auths**: He estado trabajando un poco mas en el, realizando temas de logs para administradores, pero no ha sido un avance sustancial (que no llegará hasta terminar el port de Metallics Arts)
 
 - **Proyectos Personales**: Hoy, aunque no pertenece al equipo quiero comentaros que estoy inmerso en otro proyecto (¡Soy Secretario de Nuevas Tecnologias de uno de los sindicatos de mi region desde el pasado mes!), he estado automatizando generacion de imagenes y redes sociales, si os interesa, os puedo compartir los proyectos.
 
