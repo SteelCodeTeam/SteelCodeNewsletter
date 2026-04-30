@@ -1,0 +1,19 @@
+{
+  "newsletters": [
+    {
+      "title": "Our first Newsletter!",
+      "resume": "We write about virtual consoles like PICO-8 and the latest features of Java 25 and Nuitka!",
+      "date": "09/2025"
+    },
+    {
+      "title": "Let's Talk about FOSS and FLOSS! - 1",
+      "resume": "The art-as-code world of Piet, the philosophical gap between FOSS and FLOSS (first part)",
+      "date": "10/2025"
+    },
+    {
+      "title": "Let's Talk about FOSS and FLOSS! - 2",
+      "resume": "Licenses as political battlegrounds, free hardware and its challenges, the fight for open and distributed AI",
+      "date": "12/2025"
+    }
+  ]
+}
